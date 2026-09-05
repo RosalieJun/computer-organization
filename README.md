@@ -47,8 +47,9 @@ Partial Sum of Cubes=2025
 2025=45*45
 It is a perfect square number
 1^3+2^3+...+9^3=2025
+```
 
-### Example 1: Perfect Square Range ($A=2, B=3$)
+### Example 2: Non-Perfect Square Range ($A=2, B=3$)
 ```text
 s1121513
 input number A=2
@@ -56,3 +57,4 @@ input number B=3
 Partial Sum of Cubes=35
 It is not a perfect square number
 2^3+3^3=35
+```
